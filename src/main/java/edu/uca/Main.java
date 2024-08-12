@@ -6,7 +6,8 @@ import java.util.Scanner;
 
 @CommandLine.Command(name = "tienda", mixinStandardHelpOptions = true, version = "1.0",
         description = "sistema de manejo interactivo del stock de la tienda")
-public class Main implements Runnable {
+public class
+Main implements Runnable {
     private Tienda tienda = new Tienda();
     private Scanner scanner = new Scanner(System.in);
 
