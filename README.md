@@ -6,3 +6,5 @@ Objetivo:
 4. Los articulos de ropa van a tener tamaño y material.
 5. Los articulos de algodon van a tener un 20% de descuento.
 6. Integrar esto al menu interactivo.
+
+Ahora si le cambio una linea
