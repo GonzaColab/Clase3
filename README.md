@@ -10,9 +10,12 @@ Objetivo:
 Ahora si le cambio una linea
 
 Ahora si
+<<<<<<< HEAD
 
 
 Catriel
 
 
 si modificará algo acá con el método pull podría verlo en local
+=======
+>>>>>>> parent of 4f48edf (Ahora Si?)
